@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm Jashan Pal Singh Sethi<br><br>- 🔭 I’m working as Web Development Intern<br>- 📚 I'm currently learning ReactJS<br>- ⚡ In my free time I ssearch for new opportunities or play Valorant</p>
+<p align="left">I'm Jashan Pal Singh Sethi<br><br>- 🔭 I’m working as Web Development Intern<br>- 📚 I'm currently learning ReactJS<br>- ⚡ In my free time I search for new opportunities or play Valorant</p>
 
 ###
 
